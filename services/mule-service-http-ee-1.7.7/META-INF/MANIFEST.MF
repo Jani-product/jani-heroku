@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Build-Date: 
+Built-By: ubuntu
+Specification-Title: HTTP Service EE Implementation
+Implementation-Vendor-Id: com.mulesoft.mule.services
+Description: Mule Runtime and Integration Platform
+Git-commit-id: 7970cac6f115a71b05fed4b8bb9aa67ac7fb4694
+Recommended-Jdks: [1.8.0_181,9),[11,12)
+Product-Url: https://developer.mulesoft.com/
+Build-Revision: 7970cac6
+Dev-List-Email: mule-esb@mulesoft.com
+Git-commit-time: 2022-05-23T19:40:53+0000
+Git-tags: 
+Implementation-Title: HTTP Service EE Implementation
+Git-remote-origin-url: https://github.com/mulesoft/mule-http-ee-servic
+ e.git
+Implementation-Version: 1.7.7
+Specification-Vendor: MuleSoft, Inc.
+Supported-Jdks: [1.8.0,12)
+Implementation-Vendor: MuleSoft, Inc.
+Git-branch: 1.7.7
+Git-commit-id-describe: 7970cac
+License: CPAL v1.0 http://www.mulesoft.com/CPAL/
+More-Info: For more information go to https://developer.mulesoft.com/
+Vendor-Url: http://www.mulesoft.com
+Support: Get commercial support: http://www.mulesoft.com/support
+Created-By: Apache Maven 3.6.2
+Build-Jdk: 1.8.0_275
+Specification-Version: 1.7
+Implementation-URL: https://developer.mulesoft.com/mule-core-services-
+ parent/mule-service-http-ee/
+
